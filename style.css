@@ -1,0 +1,81 @@
+#hero-button{
+    text-decoration: none;
+    color: #fff;
+}
+#footer{
+    background-color: transparent;
+    background-image: linear-gradient(to left, #C33764 , #1D2671) !important;
+    padding: 10px;
+    
+}
+#footer-link{
+    color: #fff;
+}
+.bg-dark{
+background-color: transparent !important;
+background-image: linear-gradient(to left, #C33764 , #1D2671) !important;
+}
+.btn-success{
+background-image: linear-gradient(to bottom right, #bc4e9c ,#f80759) !important;
+border: none;
+border-radius: 25px;
+
+}
+.navbar-brand{
+font-size: 30px;
+
+}
+#features{
+    padding: 5% 3% 0% 3%;
+    text-align: center;
+    background-color: #d7d1c9;
+    /* overflow:hidden; */
+    
+    
+}
+
+
+#screenshot-image{
+    width: 50%;
+    
+}
+#features-two{
+    /* margin-top: 0%; */
+    padding: 5% 3% 5% 3%;
+    text-align: center;
+    
+}
+#job-ad{
+    padding: 5% 3% 5% 3%;
+    text-align: center;
+    background-image: url(images/office-banner.jpg);
+    opacity: .5;
+}
+h1{
+    font-size: 3rem;
+    line-height: 1.2;
+    color: #000;
+}
+h2{
+    color: #000;
+    font-size: 1.5rem;
+
+}
+/* button-hero{
+    margin-left: 200%;
+} */
+.p-paragraph{
+    color: #000;
+    margin: auto;
+    width: 80%;
+}
+.f-icon{
+    color: #38296F;
+    margin-bottom: 2%;
+}
+/* .app-promo{
+    margin-bottom: 3%;
+} */
+.btn{
+    margin-top: 4%;
+}
