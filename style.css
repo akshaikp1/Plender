@@ -29,8 +29,7 @@ font-size: 30px;
     padding: 5% 3% 0% 3%;
     text-align: center;
     background-color: #EEEEEE;
-    /* overflow:hidden; */
-    
+
     
 }
 
@@ -46,10 +45,7 @@ font-size: 30px;
     
 }
 #job-ad{
-    padding: 5% 3% 5% 3%;
-    text-align: center;
-    background-image: url(images/office-banner.jpg);
-    opacity: .5;
+    background-image: url(images/office-banner.jpg;);
 }
 h1{
     font-size: 3rem;
@@ -78,4 +74,23 @@ h2{
 } */
 .btn{
     margin-top: 4%;
+}
+
+.testimonials{
+    background-color: #EEEEEE;
+    padding: 5%;
+    text-align: center;
+}
+#testimonials-image{
+    border-radius: 100%;
+    margin: 2%;
+    width: 10%;
+}
+#media-section{
+   padding: 5% 0% 5% 0%;
+    text-align: center;
+}
+#job-ad{
+    background-color: #EEEEEE;
+    padding: 5% 2% 5% 2%;
 }
